@@ -7,7 +7,6 @@ This repository contains a training module created during my internship at **Cod
 
 ## Features
 - A video demonstration showing how attackers collect sensitive information through phishing.
-- Presentation slides explaining key concepts of phishing awareness.
 - Resources for further reading on cybersecurity best practices.
 
 ## How to Use
