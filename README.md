@@ -7,7 +7,7 @@ This repository contains resources to help users recognize phishing attacks and 
 
 ## Contents
 1. **Writeup**: [How to Identify Phishing Attacks](Writeup/How_to_Identify_Phishing_Attacks.md)  
-2. **Video**: [Phishing Attack Demo](Video/Phishing_Attack_Demo.mp4)  
+2. **Video**: [Phishing Attack Demo](/witeackerjnr/CodeAlpha_PhishingAwareness/blob/main/Phishing_Attack_Demo.mp4)  
 
 ## Key Highlights
 ### How to Identify a Phishing Attack:
